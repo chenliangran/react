@@ -1,0 +1,87 @@
+.userbox{
+	height: 6.67rem;
+	overflow: hidden;
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+}
+.phonenumber, .prove, .message, .password{
+	width: 3.37rem;
+	height: 0.59rem;
+	display: block;
+	margin: 0 auto;
+	border: none;
+	font: 0.16em "黑体";
+	text-indent: 0.15rem;
+	border-radius: 0.05rem 0.05rem 0.05rem 0.05rem
+}
+.prove{
+	margin-top: 0.1rem
+}
+.phonenumber{
+	margin-top: 0.2rem;
+}
+.yzmdiv{
+	overflow: hidden;
+}
+.yzm{
+	display: block;
+   	overflow: hidden;
+    float: left;
+    line-height: 0.42rem;
+    margin-left: 0.2rem;
+    margin-top: 0.1rem
+}
+.yzmspan{
+	font-size: 0.14rem;
+	float: left;
+	margin-left: 20px;
+    color: #45e3be;
+    margin-top: 0.2rem
+}
+.change{
+	font-style: normal;
+	text-decoration: underline;
+}
+ .message, .password{
+ 	margin-top: 0.2rem
+ }
+ .goregiste{
+ 	width: 3.37rem;
+ 	height: 0.59rem;
+ 	display: block;
+ 	font-size: 0.2rem;
+ 	background: #0ac599;
+ 	margin: 0 auto;
+ 	margin-top: 0.3rem;
+ 	line-height: 0.59rem;
+ 	text-align: center;
+ 	border-radius: 0.05rem
+ }
+ .regist_text{
+ 	font-size: 0.12rem;
+ 	color: #45e3be;
+ 	margin-left: 0.2rem;
+ 	margin-top: 0.2rem
+ }
+ .gologin{
+ 	width: 3.37rem;
+ 	height: 0.59rem;
+ 	display: block;
+ 	font-size: 0.2rem;
+ 	margin: 0 auto;
+ 	line-height: 0.59rem;
+ 	text-align: center;
+ 	border-radius: 0.05rem;
+ 	border:0.01rem solid #45e3be;
+ 	color: #45e3be;
+ 	margin-top:0.1rem;
+ }
+ .regist_text2{
+ 	font-size: 0.12rem;
+ 	color: #45e3be;
+ 	margin-left: 0.2rem;
+ 	margin-top: 0.1rem
+ }
+ .regist_text2 a{
+ 	color: #9bffd3;
+    text-decoration: underline;
+ }

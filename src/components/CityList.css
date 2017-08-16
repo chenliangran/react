@@ -1,0 +1,45 @@
+.cities-header{
+    border-bottom: 0.01rem solid #e8e8e8;
+    height: 0.25rem;
+    line-height: 0.25rem;
+    padding: 0 0.15rem;
+    font-size: 0.12rem;
+    color: #888;
+}
+.cities-list{
+    width: 100%;
+    border-bottom: 0.01rem solid #e8e8e8;
+    border-spacing: 0;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    border-spacing: 0;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.cities-item{
+    height: 0.6rem;
+    line-height: 0.6rem;
+    text-align: center;
+    font-size: 0.15rem;
+    color: #333;
+    width: 1.25rem
+}
+#last{
+    margin-bottom: 0.45rem
+}
+.pre{
+    width: 0.4rem;
+    height: 0.45rem;
+    line-height: 0.45rem;
+    position: absolute;
+    top: 0;
+    font-size: 0.3rem;
+    color: white;
+    text-align: center;
+}

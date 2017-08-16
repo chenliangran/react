@@ -1,0 +1,30 @@
+.footer{
+  width: 100%;
+  height: 0.45rem;
+  line-height: 0.45rem;
+  border-top: 0.01rem solid #e8e8e8;
+  background:white;
+  color: black;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  display: -moz-box;
+  display: -webkit-box;
+  display: box;
+  font-size: 0.19rem;
+ display: flex;
+ justify-content: space-around;
+}
+
+.footer .iconfont{
+  width: 0.18rem!important;
+  height: 0.17rem!important
+}
+.footer a{
+  text-decoration: none!important;
+  color: #c2cfcc
+}
+.footer a.active{
+  color: #00b38a
+}

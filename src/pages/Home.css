@@ -1,0 +1,20 @@
+.info{
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    height: 0.43rem;
+    line-height: 0.43rem;
+    position: relative;
+    font-size: 0.14rem;
+    padding: 0 0.2rem;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 0.01rem solid #e8e8e8;
+}
+.info a{
+	font-size: 0.14rem;
+	color: #00b38a;
+	float: right;
+	display: block;
+}

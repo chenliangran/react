@@ -1,0 +1,17 @@
+.cities-item{
+    height: 0.6rem;
+    line-height: 0.6rem;
+    text-align: center;
+    font-size: 0.15rem;
+    color: #333;
+    min-width: 1rem;
+}
+.td_div{
+	display: flex;
+	width: 3.75rem;
+	flex-wrap: wrap;
+}
+._div{
+	width: 1.25rem;
+	height: 0.6rem
+}

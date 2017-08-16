@@ -1,0 +1,71 @@
+.userbox{
+	height: 6.67rem;
+	overflow: hidden;
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+}
+
+.user, .passWord{
+	width: 3.37rem;
+	height: 0.59rem;
+	display: block;
+	margin: 0 auto;
+	border: none;
+	font: 0.16em "黑体";
+	text-indent: 0.15rem
+}
+.user{
+	margin-top: 0.2rem;
+	border-bottom: 0.01rem solid #e8e8e8;
+	border-radius: 0.05rem 0.05rem 0 0
+}
+.passWord{
+	border-radius:0 0 0.05rem 0.05rem;
+	position: relative;
+}
+.eye{
+	width: 0.2rem;
+    height: 0.13rem;
+    background: url(//img.lagou.com/passport/static/mobile/modules/common/img/psweye_930f545.png) 0 0 no-repeat;
+    background-size: 20px 30px;
+    position: absolute;
+    right: 10%;
+    top:16%; 
+    -moz-transition: transform .3s linear 0s;
+    -webkit-transition: transform .3s linear 0s;
+    -o-transition: transform .3s linear 0s;
+    transition: transform .3s linear 0s;
+}
+.loginbtn{
+	width: 3.37rem;
+	height: 0.59rem;
+	line-height: 0.59rem;
+	display: block;
+	background: #0ac599;
+	border: none;
+	border-radius: 0.05rem;
+	margin: 0 auto;
+	margin-top: 0.2rem;
+	font-size: 0.2rem;
+	text-align: center;
+	color: white
+}
+.logindiv{
+	font-size: 0.12rem;
+	display: block;
+	color: #45e3be;
+	margin-left: 0.19rem;
+	margin-top: 0.2rem
+}
+.registerbtn{
+	width: 3.37rem;
+	height: 0.59rem;
+	line-height: 0.59rem;
+	display: block;
+	color: #45e3be;
+	border-radius: 0.05rem;
+	margin: 0 auto;
+	margin-top: 0.1rem;
+	font-size: 0.2rem;
+	text-align: center;
+	border: 0.01rem solid #45e3be;
+}
